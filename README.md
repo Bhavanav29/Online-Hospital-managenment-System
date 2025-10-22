@@ -12,3 +12,6 @@ FUNCTIONALITIES PROVIDED BY THIS SYSTEM:
 • Manage the information of Doctor
 • Editing, adding and updating of Records is improved which results in proper resource management of Doctor data
 • Manage the information of Book
+
+
+<img width="780" height="442" alt="image" src="https://github.com/user-attachments/assets/ff388910-49f3-4678-98f3-98eb8cf8eb70" />
